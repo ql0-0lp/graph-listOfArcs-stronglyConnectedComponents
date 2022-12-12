@@ -1,0 +1,14 @@
+C:\Users\av-lo\source\repos\algos_lab2\algos_lab2\bin\Debug\algos_lab2.exe.config
+C:\Users\av-lo\source\repos\algos_lab2\algos_lab2\bin\Debug\algos_lab2.exe
+C:\Users\av-lo\source\repos\algos_lab2\algos_lab2\bin\Debug\algos_lab2.pdb
+C:\Users\av-lo\source\repos\algos_lab2\algos_lab2\obj\Debug\algos_lab2.csproj.AssemblyReference.cache
+C:\Users\av-lo\source\repos\algos_lab2\algos_lab2\obj\Debug\algos_lab2.csproj.CoreCompileInputs.cache
+C:\Users\av-lo\source\repos\algos_lab2\algos_lab2\obj\Debug\algos_lab2.exe
+C:\Users\av-lo\source\repos\algos_lab2\algos_lab2\obj\Debug\algos_lab2.pdb
+C:\Users\av-lo\source\repos\algos_lab2_Max\algos_lab2\bin\Debug\algos_lab2.exe.config
+C:\Users\av-lo\source\repos\algos_lab2_Max\algos_lab2\bin\Debug\algos_lab2.exe
+C:\Users\av-lo\source\repos\algos_lab2_Max\algos_lab2\bin\Debug\algos_lab2.pdb
+C:\Users\av-lo\source\repos\algos_lab2_Max\algos_lab2\obj\Debug\algos_lab2.csproj.AssemblyReference.cache
+C:\Users\av-lo\source\repos\algos_lab2_Max\algos_lab2\obj\Debug\algos_lab2.csproj.CoreCompileInputs.cache
+C:\Users\av-lo\source\repos\algos_lab2_Max\algos_lab2\obj\Debug\algos_lab2.exe
+C:\Users\av-lo\source\repos\algos_lab2_Max\algos_lab2\obj\Debug\algos_lab2.pdb
